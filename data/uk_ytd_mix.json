@@ -1,10 +1,10 @@
 {
   "country": "United Kingdom",
   "period_start": "2026-01-01",
-  "period_end": "2026-09-22",
-  "generated_at_utc": "2026-09-22T11:22:12.816970Z",
+  "period_end": "2026-09-23",
+  "generated_at_utc": "2026-09-23T11:17:01.362580Z",
   "source": "NESO Carbon Intensity API (api.carbonintensity.org.uk)",
-  "periods_averaged": 12713,
+  "periods_averaged": 12761,
   "mix": [
     {
       "label": "Wind",
@@ -43,7 +43,7 @@
     },
     {
       "label": "Hydropower",
-      "value": 0.8,
+      "value": 0.9,
       "color": "#2E86DE"
     },
     {
