@@ -1,49 +1,49 @@
 {
   "country": "United Kingdom",
-  "period_start": "2026-10-02T11:00:00Z",
-  "period_end": "2026-10-03T11:00:00Z",
-  "generated_at_utc": "2026-10-03T11:27:28.992879Z",
+  "period_start": "2026-10-03T12:00:00Z",
+  "period_end": "2026-10-04T12:00:00Z",
+  "generated_at_utc": "2026-10-04T12:08:45.377588Z",
   "source": "NESO Carbon Intensity API (api.carbonintensity.org.uk)",
   "mix": [
     {
-      "label": "Wind",
-      "value": 39.6,
-      "color": "#14B8A6"
-    },
-    {
       "label": "Gas",
-      "value": 20.5,
+      "value": 28.1,
       "color": "#7C8B99"
     },
     {
+      "label": "Wind",
+      "value": 22.2,
+      "color": "#14B8A6"
+    },
+    {
       "label": "Nuclear",
-      "value": 13.2,
+      "value": 15.1,
       "color": "#22C55E"
     },
     {
-      "label": "Biomass",
-      "value": 8.9,
-      "color": "#A0522D"
-    },
-    {
       "label": "Net Imports",
-      "value": 8.0,
+      "value": 12.3,
       "color": "#8B5CF6"
     },
     {
+      "label": "Biomass",
+      "value": 10.5,
+      "color": "#A0522D"
+    },
+    {
       "label": "Solar",
-      "value": 6.1,
+      "value": 7.8,
       "color": "#F2A93B"
     },
     {
-      "label": "Other",
-      "value": 1.9,
-      "color": "#E8B923"
+      "label": "Hydropower",
+      "value": 2.3,
+      "color": "#2E86DE"
     },
     {
-      "label": "Hydropower",
+      "label": "Other",
       "value": 1.8,
-      "color": "#2E86DE"
+      "color": "#E8B923"
     },
     {
       "label": "Coal",
