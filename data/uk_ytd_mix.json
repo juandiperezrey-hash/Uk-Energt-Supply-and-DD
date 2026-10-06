@@ -1,10 +1,10 @@
 {
   "country": "United Kingdom",
   "period_start": "2026-01-01",
-  "period_end": "2026-10-05",
-  "generated_at_utc": "2026-10-05T14:17:01.614058Z",
+  "period_end": "2026-10-06",
+  "generated_at_utc": "2026-10-06T13:10:48.965550Z",
   "source": "NESO Carbon Intensity API (api.carbonintensity.org.uk)",
-  "periods_averaged": 13344,
+  "periods_averaged": 13390,
   "mix": [
     {
       "label": "Wind",
@@ -33,7 +33,7 @@
     },
     {
       "label": "Biomass",
-      "value": 7.3,
+      "value": 7.4,
       "color": "#A0522D"
     },
     {
