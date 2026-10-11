@@ -1,14 +1,14 @@
 {
   "country": "United Kingdom",
   "period_start": "2026-01-01",
-  "period_end": "2026-10-10",
-  "generated_at_utc": "2026-10-10T12:17:15.678608Z",
+  "period_end": "2026-10-11",
+  "generated_at_utc": "2026-10-11T12:33:04.851830Z",
   "source": "NESO Carbon Intensity API (api.carbonintensity.org.uk)",
-  "periods_averaged": 13581,
+  "periods_averaged": 13629,
   "mix": [
     {
       "label": "Wind",
-      "value": 32.1,
+      "value": 32.2,
       "color": "#14B8A6"
     },
     {
