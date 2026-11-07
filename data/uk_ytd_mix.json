@@ -1,19 +1,19 @@
 {
   "country": "United Kingdom",
   "period_start": "2026-01-01",
-  "period_end": "2026-11-06",
-  "generated_at_utc": "2026-11-06T14:04:59.228108Z",
+  "period_end": "2026-11-07",
+  "generated_at_utc": "2026-11-07T12:48:04.150991Z",
   "source": "NESO Carbon Intensity API (api.carbonintensity.org.uk)",
-  "periods_averaged": 14883,
+  "periods_averaged": 14927,
   "mix": [
     {
       "label": "Wind",
-      "value": 32.4,
+      "value": 32.3,
       "color": "#14B8A6"
     },
     {
       "label": "Gas",
-      "value": 24.8,
+      "value": 24.9,
       "color": "#7C8B99"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "label": "Hydropower",
-      "value": 1.0,
+      "value": 1.1,
       "color": "#2E86DE"
     },
     {
