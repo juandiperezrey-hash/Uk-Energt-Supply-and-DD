@@ -1,19 +1,19 @@
 {
   "country": "United Kingdom",
   "period_start": "2026-01-01",
-  "period_end": "2026-11-08",
-  "generated_at_utc": "2026-11-08T13:08:12.483862Z",
+  "period_end": "2026-11-09",
+  "generated_at_utc": "2026-11-09T15:53:07.397852Z",
   "source": "NESO Carbon Intensity API (api.carbonintensity.org.uk)",
-  "periods_averaged": 14977,
+  "periods_averaged": 15029,
   "mix": [
     {
       "label": "Wind",
-      "value": 32.2,
+      "value": 32.1,
       "color": "#14B8A6"
     },
     {
       "label": "Gas",
-      "value": 25.0,
+      "value": 25.1,
       "color": "#7C8B99"
     },
     {
@@ -23,12 +23,12 @@
     },
     {
       "label": "Net Imports",
-      "value": 12.4,
+      "value": 12.3,
       "color": "#8B5CF6"
     },
     {
       "label": "Solar",
-      "value": 7.8,
+      "value": 7.7,
       "color": "#F2A93B"
     },
     {
